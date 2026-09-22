@@ -1,0 +1,6 @@
+def print_hi(name):
+    print(f'hi, {name}')
+
+if __name__ == '__main__':
+    pfing_hi('pycharm')
+    
